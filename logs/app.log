@@ -1,0 +1,9 @@
+2026-02-16T02:55:36+01:00 - Received POST for test_upload
+2026-02-16T02:55:36+01:00 - file error: 0
+2026-02-16T02:55:36+01:00 - file size: 40991
+2026-02-16T02:55:36+01:00 - tmp_name: /opt/lampp/temp/phpv8DIXf
+2026-02-16T02:55:36+01:00 - Attempting move to: /opt/lampp/htdocs/artsplayground/uploads/_.jpeg
+2026-02-16T02:55:36+01:00 - move_uploaded_file: success
+2026-02-16T03:15:13+01:00 - delete.php: Unlinked image: /opt/lampp/htdocs/artsplayground/admin/../uploads/69927963a2c7f2.55901054.jpeg
+2026-02-16T03:15:13+01:00 - delete.php: Deleted story id=3
+2026-02-16T03:15:17+01:00 - delete.php: Deleted story id=1
